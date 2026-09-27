@@ -1,0 +1,15 @@
+{
+  "name": "Street Racer",
+  "short_name": "Racer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#FFD000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774089.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
